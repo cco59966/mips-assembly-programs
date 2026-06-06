@@ -44,3 +44,7 @@ using MIPS floating-point registers (FPU).
 4. Run → Go (F5)
 
 ## File Structure
+├── new-program2.s   # Array maximum finder
+├── program3.s       # Linear search
+├── Program4.s       # Float array subtraction
+└── lab-array-sub.s  # Integer array subtraction
